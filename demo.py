@@ -1,5 +1,5 @@
 def display():
-print("hai git")
-print("welcome")
+print("hi")
+print("github")
 display()
 
